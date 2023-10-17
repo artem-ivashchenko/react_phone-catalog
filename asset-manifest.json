@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "./static/css/main.52e81a6e.chunk.css",
-    "main.js": "./static/js/main.3feda9c5.chunk.js",
-    "main.js.map": "./static/js/main.3feda9c5.chunk.js.map",
+    "main.js": "./static/js/main.332981eb.chunk.js",
+    "main.js.map": "./static/js/main.332981eb.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.106901e4.js",
     "runtime-main.js.map": "./static/js/runtime-main.106901e4.js.map",
-    "static/js/2.922e2482.chunk.js": "./static/js/2.922e2482.chunk.js",
-    "static/js/2.922e2482.chunk.js.map": "./static/js/2.922e2482.chunk.js.map",
+    "static/js/2.5de49dae.chunk.js": "./static/js/2.5de49dae.chunk.js",
+    "static/js/2.5de49dae.chunk.js.map": "./static/js/2.5de49dae.chunk.js.map",
     "index.html": "./index.html",
     "static/css/main.52e81a6e.chunk.css.map": "./static/css/main.52e81a6e.chunk.css.map",
-    "static/js/2.922e2482.chunk.js.LICENSE.txt": "./static/js/2.922e2482.chunk.js.LICENSE.txt",
+    "static/js/2.5de49dae.chunk.js.LICENSE.txt": "./static/js/2.5de49dae.chunk.js.LICENSE.txt",
     "static/media/productDetails.scss": "./static/media/Mont-SemiBold.8979d71a.otf"
   },
   "entrypoints": [
     "static/js/runtime-main.106901e4.js",
-    "static/js/2.922e2482.chunk.js",
+    "static/js/2.5de49dae.chunk.js",
     "static/css/main.52e81a6e.chunk.css",
-    "static/js/main.3feda9c5.chunk.js"
+    "static/js/main.332981eb.chunk.js"
   ]
 }
